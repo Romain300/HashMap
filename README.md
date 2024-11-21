@@ -36,6 +36,6 @@ map.remove('name');
 console.log(map.get('name')); // Output: null
 ```
 
-### Example Usage
+### Licence
 
 MIT License
